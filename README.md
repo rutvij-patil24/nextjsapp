@@ -1,36 +1,88 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# ✅ Next.js Todo App
 
-## Getting Started
+A beautifully styled, full-featured Todo App built using **Next.js 14 App Router**, **TypeScript**, and **Tailwind CSS**.
 
-First, run the development server:
+This project demonstrates modern full-stack app development using the latest Next.js features including client components, Tailwind UI, keyboard events, custom styling, and interactive state management.
+
+---
+
+## 🚀 Tech Stack
+
+- [**Next.js 14**](https://nextjs.org) – App Router, Server/Client Components, File-based routing
+- [**TypeScript**](https://www.typescriptlang.org/) – Strongly typed JS for maintainable code
+- [**Tailwind CSS**](https://tailwindcss.com) – Utility-first CSS with full customization
+- [**React Hooks**](https://reactjs.org/docs/hooks-intro.html) – State & event handling
+- [**Google Fonts**](https://fonts.google.com) – Montserrat for headings, Poppins for body text
+
+---
+
+## ✨ Features
+
+- ✅ Add tasks using either the **"Add" button** or by pressing **Enter**
+- ✅ Toggle tasks between **active** (green background) and **completed** (red strikethrough)
+- ✅ Tasks are cleanly styled with spacing and hover feedback
+- ✅ Custom theme with consistent font pairing and colors
+- ✅ Fully responsive layout using Tailwind
+- ✅ Modular code with reusable components and type safety
+
+---
+
+## 💡 How I Built It / My Approach
+
+This project was built with a **scalable architecture** and focus on **clarity and user experience**. Here's how I approached it:
+
+- **Component-based Design** – Reusable `TodoList` and `TodoItem` components
+- **State Management** – Used `useState` to track and toggle todos
+- **UX Focus** – Input auto-focus, `Enter` key support, clear interaction feedback
+- **Tailwind Theming** – Fonts and colors defined in Tailwind config for consistency
+- **Font Loading** – Used `next/font/google` to load Montserrat & Poppins the Next.js way
+- **Accessibility & Keyboard UX** – Enter-to-add and large touch targets
+
+---
+
+### Clone the Repo
+
+```bash
+git clone https://github.com/your-username/todoapp-nextjs.git
+cd todoapp-nextjs
+```
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+### Run the App
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
+### Then open http://localhost:3000 in your browser.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## ✅ Future Improvements
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- ✅ Add delete functionality with confirmation
+- ✅ Add dark/light theme toggle
+- ✅ Add drag-and-drop support to reorder tasks
+- ✅ Add filters for active/completed/all
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📚 References
 
-To learn more about Next.js, take a look at the following resources:
+This project was built with the help of the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [React.js Official Documentation](https://reactjs.org/docs/getting-started.html)
+- [Next.js Official Documentation](https://nextjs.org/docs)
+- Various tutorials and videos from YouTube creators and developer communities
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 👨‍💻 Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Made by **Rutvij Patil**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- 🔗 [LinkedIn](https://linkedin.com/in/rutvij-patil)
+- 🌐 [Portfolio](https://rutvijpatil.vercel.app/)
+- 🐙 [GitHub](https://github.com/rutvij-patil24)
