@@ -4,8 +4,6 @@ A beautifully styled, full-featured Todo App built using **Next.js 14 App Router
 
 This project demonstrates modern full-stack app development using the latest Next.js features including client components, Tailwind UI, keyboard events, custom styling, and interactive state management.
 
----
-
 ## 🚀 Tech Stack
 
 - [**Next.js 14**](https://nextjs.org) – App Router, Server/Client Components, File-based routing
@@ -13,8 +11,6 @@ This project demonstrates modern full-stack app development using the latest Nex
 - [**Tailwind CSS**](https://tailwindcss.com) – Utility-first CSS with full customization
 - [**React Hooks**](https://reactjs.org/docs/hooks-intro.html) – State & event handling
 - [**Google Fonts**](https://fonts.google.com) – Montserrat for headings, Poppins for body text
-
----
 
 ## ✨ Features
 
@@ -24,8 +20,6 @@ This project demonstrates modern full-stack app development using the latest Nex
 - ✅ Custom theme with consistent font pairing and colors
 - ✅ Fully responsive layout using Tailwind
 - ✅ Modular code with reusable components and type safety
-
----
 
 ## 💡 How I Built It / My Approach
 
@@ -37,8 +31,6 @@ This project was built with a **scalable architecture** and focus on **clarity a
 - **Tailwind Theming** – Fonts and colors defined in Tailwind config for consistency
 - **Font Loading** – Used `next/font/google` to load Montserrat & Poppins the Next.js way
 - **Accessibility & Keyboard UX** – Enter-to-add and large touch targets
-
----
 
 ### Clone the Repo
 
@@ -67,8 +59,6 @@ npm run dev
 - ✅ Add drag-and-drop support to reorder tasks
 - ✅ Add filters for active/completed/all
 
----
-
 ## 📚 References
 
 This project was built with the help of the following resources:
@@ -76,8 +66,6 @@ This project was built with the help of the following resources:
 - [React.js Official Documentation](https://reactjs.org/docs/getting-started.html)
 - [Next.js Official Documentation](https://nextjs.org/docs)
 - Various tutorials and videos from YouTube creators and developer communities
-
----
 
 ## 👨‍💻 Author
 
