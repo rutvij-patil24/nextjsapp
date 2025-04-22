@@ -1,7 +1,10 @@
-export default function Home() {
+// app/page.tsx
+import TodoList from '@/components/TodoList';
+
+export default function HomePage() {
   return (
-    <main className="flex min-h-screen items-center justify-evenly">
-      <h1 className="text-4xl font-bold text-blue-600">✅ Tailwind is working!</h1>
+    <main className="min-h-screen flex items-center justify-center">
+      <TodoList />
     </main>
   );
 }

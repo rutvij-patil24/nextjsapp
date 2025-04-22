@@ -1,4 +1,10 @@
-/* @tailwind base;
-@tailwind components; */
+@tailwind base;
+@tailwind components;
 @tailwind utilities;
-@import "tailwindcss/preflight";
+
+body {
+    font-family: var(--font-poppins), sans-serif;
+    background-color: #F1F5F9;
+    color: #0F172A;
+  }
+  
