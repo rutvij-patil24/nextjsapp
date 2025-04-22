@@ -1,4 +1,4 @@
-# ✅ Next.js Todo App
+# Next.js Todo App
 
 A beautifully styled, full-featured Todo App built using **Next.js 14 App Router**, **TypeScript**, and **Tailwind CSS**.
 
@@ -14,12 +14,12 @@ This project demonstrates modern full-stack app development using the latest Nex
 
 ## ✨ Features
 
-- ✅ Add tasks using either the **"Add" button** or by pressing **Enter**
-- ✅ Toggle tasks between **active** (green background) and **completed** (red strikethrough)
-- ✅ Tasks are cleanly styled with spacing and hover feedback
-- ✅ Custom theme with consistent font pairing and colors
-- ✅ Fully responsive layout using Tailwind
-- ✅ Modular code with reusable components and type safety
+- Add tasks using either the **"Add" button** or by pressing **Enter**
+- Toggle tasks between **active** (green background) and **completed** (red strikethrough)
+- Tasks are cleanly styled with spacing and hover feedback
+- Custom theme with consistent font pairing and colors
+- Fully responsive layout using Tailwind
+- Modular code with reusable components and type safety
 
 ## 💡 How I Built It / My Approach
 
@@ -35,8 +35,8 @@ This project was built with a **scalable architecture** and focus on **clarity a
 ### Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/todoapp-nextjs.git
-cd todoapp-nextjs
+git clone https://github.com/your-username/nextjsapp.git
+cd nextjsapp
 ```
 
 ### Install Dependencies
@@ -54,10 +54,10 @@ npm run dev
 
 ## ✅ Future Improvements
 
-- ✅ Add delete functionality with confirmation
-- ✅ Add dark/light theme toggle
-- ✅ Add drag-and-drop support to reorder tasks
-- ✅ Add filters for active/completed/all
+- Add delete functionality with confirmation
+- Add dark/light theme toggle
+- Add drag-and-drop support to reorder tasks
+- Add filters for active/completed/all
 
 ## 📚 References
 
